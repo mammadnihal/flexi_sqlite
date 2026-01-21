@@ -2,6 +2,12 @@
 
 🗄️ **Flexible SQLite helper for Flutter with schema-based multi-table support**
 
+[![pub package](https://img.shields.io/pub/v/flexi_sqlite.svg?label=pub.dev&logo=dart)](https://pub.dev/packages/flexi_sqlite)
+[![GitHub](https://img.shields.io/badge/GitHub-mammadnihal-blue?logo=github)](https://github.com/mammadnihal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nihal%20Mammad-0077B5?logo=linkedin)](https://linkedin.com/in/nihalmammad)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?logo=buymeacoffee)](https://kofe.al/@mammadnihal)
+
+
 A simple yet powerful package for managing SQLite databases in Flutter applications. Define your database schema declaratively and get automatic table creation with an intuitive API for all common operations.
 
 ## ✨ Features

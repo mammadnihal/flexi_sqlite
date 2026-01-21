@@ -5,7 +5,7 @@
   "packages": [
     {
       "name": "flexi_sqlite",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "dependencies": [
         "flutter",
         "path",
