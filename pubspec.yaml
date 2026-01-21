@@ -1,0 +1,19 @@
+name: flexi_sqlite
+description: Flexible SQLite helper for Flutter with schema-based multi-table support.
+version: 0.1.0
+homepage: https://github.com/nihalmammad/flexi_sqlite
+repository: https://github.com/nihalmammad/flexi_sqlite
+issue_tracker: https://github.com/nihalmammad/flexi_sqlite/issues
+documentation: https://pub.dev/packages/flexi_sqlite
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path: ^1.8.3
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
